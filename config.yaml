@@ -1,0 +1,9 @@
+data_path_local: '../../data/ISLES2018/TRAINING' #local address
+data_path_server: '../../../../yupei_data/ISLES2018/ISLES2018_Training/TRAINING/'
+results_path: './results' 
+numPoints: 100
+numTestFiles: 50
+
+
+
+
